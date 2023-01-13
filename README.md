@@ -2,7 +2,7 @@
 
 - Projeto Final do curso de javaScript para web
 
-## A ideia do curso era criar um site onde possuem diversos botoes que possuem um tipo de som. Semelhante aos botoes utilizados por djs ou botoes utilizados em baterrias digitais.
+## A ideia do curso era criar um site onde possui diversos botoes que possuem um tipo de som. Semelhante aos botoes utilizados por djs ou botoes utilizados em baterias digitais.
 
 - A ideia do curso era utilizar a linguagem javaScript para manipular listas, alem de utilizar seletores para a criação da lista. 
 
