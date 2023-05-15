@@ -8,4 +8,7 @@
 
 ## O curso foi bem proveitoso, pois ajudou a sanar algumas dúdvidas sobre manipulaçoes de arrays. Uma grande dúvida que eu tinha antes do curso era quando usar aquelas expressôes .algumaCoisa. Ex: menuLateral.classList.toggle... Qual era a ideia por tras dessas expressôes ? Nesse curso eu aprendi que essas expressoes servem para acessar algum elemento dentro de uma variavel ou realizar alguma função, já que essas expressões tambem são funçôes. 
 
+# Imagem da Tela: 
 
+
+![imagem-bateria-midi](https://github.com/Carl-Vini/Curso-de-javaScript-para-web-da-Alura/assets/116040965/ba3d59fb-209f-47ee-bdda-69fe3f99b5ca)
